@@ -43,5 +43,5 @@ This dataset contains information about employees in a company, including their 
 - There are more male employees (2,778) than female employees (1,875)
 - Most of the employees have a bachelors degree, followed by a masters degree
 - Most of the employees fall under Tier 3 payment category
-- The total number of employees followed an upward trend until 2016 when it dropped to 525. The company had the highet number of employees in 2018 (1,108).
+- The total number of employees followed an upward trend until 2016 when it dropped to 525. The company had the highet number of employees in 2017 (1,108).
 
